@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "64457e59753813284fce3f26",
+    "name": "Chocolate Oreo",
+    "quantity": 8,
+    "price": 5.9,
+    "createdAt": "2023-04-23T18:52:09.491Z",
+    "updatedAt": "2023-04-23T18:52:09.491Z",
+    "__v": 0
+  },
+  {
+    "_id": "64457e59753813284fce3f25",
+    "name": "Ruffles",
+    "quantity": 5,
+    "price": 8,
+    "createdAt": "2023-04-23T18:52:09.491Z",
+    "updatedAt": "2023-04-23T18:52:09.491Z",
+    "__v": 0
+  },
+  {
+    "_id": "64457e59753813284fce3f24",
+    "name": "Energetico",
+    "quantity": 10,
+    "price": 10,
+    "createdAt": "2023-04-23T18:52:09.491Z",
+    "updatedAt": "2023-04-23T18:52:09.491Z",
+    "__v": 0
+  },
+  {
+    "_id": "64457e59753813284fce3f27",
+    "name": "Bacon",
+    "quantity": 16,
+    "price": 15,
+    "createdAt": "2023-04-23T18:52:09.492Z",
+    "updatedAt": "2023-04-23T18:52:09.492Z",
+    "__v": 0
+  },
+  {
+    "_id": "64457e59753813284fce3f28",
+    "name": "Trident",
+    "quantity": 5,
+    "price": 2,
+    "createdAt": "2023-04-23T18:52:09.492Z",
+    "updatedAt": "2023-04-23T18:52:09.492Z",
+    "__v": 0
+  },
+  {
+    "_id": "64457e59753813284fce3f2b",
+    "name": "Macarrão Espaguete",
+    "quantity": 5,
+    "price": 9,
+    "createdAt": "2023-04-23T18:52:09.492Z",
+    "updatedAt": "2023-04-23T18:52:09.492Z",
+    "__v": 0
+  },
+  {
+    "_id": "64457e59753813284fce3f2c",
+    "name": "Batata",
+    "quantity": 4,
+    "price": 6,
+    "createdAt": "2023-04-23T18:52:09.492Z",
+    "updatedAt": "2023-04-23T18:52:09.492Z",
+    "__v": 0
+  },
+  {
+    "_id": "64457e59753813284fce3f2d",
+    "name": "Coca-cola",
+    "quantity": 8,
+    "price": 8.5,
+    "createdAt": "2023-04-23T18:52:09.492Z",
+    "updatedAt": "2023-04-23T18:52:09.492Z",
+    "__v": 0
+  },
+  {
+    "_id": "64457e59753813284fce3f29",
+    "name": "Nescau Cereal",
+    "quantity": 6,
+    "price": 18,
+    "createdAt": "2023-04-23T18:52:09.492Z",
+    "updatedAt": "2023-04-23T18:52:09.492Z",
+    "__v": 0
+  },
+  {
+    "_id": "64457e59753813284fce3f2a",
+    "name": "Bolacha Passatempo",
+    "quantity": 3,
+    "price": 4.5,
+    "createdAt": "2023-04-23T18:52:09.492Z",
+    "updatedAt": "2023-04-23T18:52:09.492Z",
+    "__v": 0
+  }
+]
